@@ -1,0 +1,3 @@
+- https://prompts.chat/
+- https://github.com/devisasari/awesome-gpt-store
+- https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
